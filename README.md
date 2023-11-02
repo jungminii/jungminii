@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+공부중
 <!--
 **jungminii/jungminii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
